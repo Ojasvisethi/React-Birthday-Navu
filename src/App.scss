@@ -42,7 +42,7 @@ body {
     url("/main.jpeg");
   background-size: cover;
   background-position: top;
-  // -webkit-background-clip: polygon(0 0, 100% 0, 100% 87vh, 0 100%);
+  -webkit-background-clip: polygon(0 0, 100% 0, 100% 87vh, 0 100%);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80vh);
   background-clip: text;
   position: relative;
